@@ -1,5 +1,6 @@
 # mezan_privacy_policy
 
+
 Privacy Policy of  AL MEZAN
 This Application collects some Personal Data from its Users.
 
@@ -18,9 +19,12 @@ Owner contact email: embrooor@gmail.com
 
 
 Full policy
+
 Owner and Data Controller
 AL MEZAN
 Owner contact email: embrooor@gmail.com
+
+
 Types of Data collected
 Among the types of Personal Data that this Application collects, by itself or through third parties, there are first name; phone number; and email address.
 Complete details on each type of Personal Data collected are provided in the dedicated sections of this privacy policy or by specific explanation texts displayed prior to the Data collection.
@@ -82,6 +86,7 @@ Users must know that, however, should their Personal Data be processed for direc
 How to exercise these rights
 Any requests to exercise User rights can be directed to the Owner through the contact details provided in this document. Such requests are free of charge and will be answered by the Owner as early as possible and always within one month, providing Users with the information required by law. Any rectification or erasure of Personal Data or restriction of processing will be communicated by the Owner to each recipient, if any, to whom the Personal Data has been disclosed unless this proves impossible or involves disproportionate effort. At the Users’ request, the Owner will inform them about those recipients.
 Additional information about Data collection and processing
+
 Legal action
 The User's Personal Data may be used for legal purposes by the Owner in Court or in the stages leading to possible legal action arising from improper use of this Application or the related Services.
 The User declares to be aware that the Owner may be required to reveal personal data upon request of public authorities.
